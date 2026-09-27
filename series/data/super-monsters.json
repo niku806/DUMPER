@@ -1,0 +1,378 @@
+{
+  "url": "https://animedekho.app/series-hindi/super-monsters/",
+  "title": "Super Monsters",
+  "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+  "description": "Preschool kids whose parents are the world’s most famous monsters try to master their special powers while preparing for kindergarten.",
+  "year": "2017",
+  "genres": [
+    "Animation",
+    "Hindi Dub",
+    "Kids"
+  ],
+  "cast": [
+    "Alessandro Juliani",
+    "Andrea Libman",
+    "Britt McKillip",
+    "Erin Mathews",
+    "Vincent Tong",
+    "Aoi Yuki",
+    "Bin Shimada",
+    "Koji Yusa",
+    "Ikuko Tani",
+    "Koki Uchiyama",
+    "Mikako Komatsu",
+    "Akio Otsuka",
+    "Akira Sekine",
+    "Atsushi Tamaru",
+    "Campbell Cooley",
+    "Chance Perez",
+    "Hunter Deno",
+    "Atsumi Tanezaki",
+    "Daiki Kobayashi",
+    "Koutaro Nishiyama",
+    "Campbell Cooley",
+    "Chance Perez",
+    "Hunter Deno",
+    "Alex Brightman",
+    "Amir Talai",
+    "Blake Roman",
+    "Alyson Stoner",
+    "Ashley Tisdale",
+    "Bobby Gaylor"
+  ],
+  "episodes": [
+    {
+      "title": "S1-E1Meet the Super Monsters",
+      "url": "https://animedekho.app/epi/super-monsters-1x1/",
+      "image": "https://image.tmdb.org/t/p/w185/o8YXLK427T6GwMq807cTDy7zbB6.jpg"
+    },
+    {
+      "title": "S1-E2Vampires Don't Dance",
+      "url": "https://animedekho.app/epi/super-monsters-1x2/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E3Borrowed Trouble",
+      "url": "https://animedekho.app/epi/super-monsters-1x3/",
+      "image": "https://image.tmdb.org/t/p/w185/mSgOAhGchJAlGgtz0gTSmjJAijv.jpg"
+    },
+    {
+      "title": "S1-E4Spell Help",
+      "url": "https://animedekho.app/epi/super-monsters-1x4/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E5Safety Fur All",
+      "url": "https://animedekho.app/epi/super-monsters-1x5/",
+      "image": "https://image.tmdb.org/t/p/w185/eHEfEQSAbO2zkfGSkd2ZKUXfQUK.jpg"
+    },
+    {
+      "title": "S1-E6Even Monsters Need Manners",
+      "url": "https://animedekho.app/epi/super-monsters-1x6/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E7Monsters at the Museum",
+      "url": "https://animedekho.app/epi/super-monsters-1x7/",
+      "image": "https://image.tmdb.org/t/p/w185/pInLLu2OaAANdXOsczWEu4zdTsA.jpg"
+    },
+    {
+      "title": "S1-E8Lost and Furry One",
+      "url": "https://animedekho.app/epi/super-monsters-1x8/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E9Once in a Blue Moon",
+      "url": "https://animedekho.app/epi/super-monsters-1x9/",
+      "image": "https://image.tmdb.org/t/p/w185/902ouIpebwjGVE25lfUtwRnfqzV.jpg"
+    },
+    {
+      "title": "S1-E10Zombie Eyes Surprise",
+      "url": "https://animedekho.app/epi/super-monsters-1x10/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    }
+  ],
+  "episodes_data": [
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x1/",
+      "title": "Super Monsters 1x1",
+      "season": 1,
+      "episode": 1,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "The Super Monsters welcome a nervous new student with surprising powers.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x2/",
+      "prev_episode": null
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x2/",
+      "title": "Super Monsters 1x2",
+      "season": 1,
+      "episode": 2,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "A frustrated Drac has trouble learning how to dance.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x3/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x1/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x3/",
+      "title": "Super Monsters 1x3",
+      "season": 1,
+      "episode": 3,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "Frankie stirs up trouble when he \"borrows\" Katya’s wand without her permission.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x4/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x2/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x4/",
+      "title": "Super Monsters 1x4",
+      "season": 1,
+      "episode": 4,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "A trip to the library teaches Katya to ask for help when she needs it.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x5/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x3/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x5/",
+      "title": "Super Monsters 1x5",
+      "season": 1,
+      "episode": 5,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "Lobo learns to follow the rules on a class field trip to Funland.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x6/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x4/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x6/",
+      "title": "Super Monsters 1x6",
+      "season": 1,
+      "episode": 6,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "Cleo leads the Super Monsters in a game of \"Monster, May I?\"",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x7/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x5/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x7/",
+      "title": "Super Monsters 1x7",
+      "season": 1,
+      "episode": 7,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "The class helps Frankie talk about his feelings after a frightful trip to the museum.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x8/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x6/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x8/",
+      "title": "Super Monsters 1x8",
+      "season": 1,
+      "episode": 8,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "A careless Lobo loses his friends' favorite things.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x9/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x7/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x9/",
+      "title": "Super Monsters 1x9",
+      "season": 1,
+      "episode": 9,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "Katya can't decide which punch to mix up for the Blue Moon party.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/super-monsters-1x10/",
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x8/"
+    },
+    {
+      "url": "https://animedekho.app/epi/super-monsters-1x10/",
+      "title": "Super Monsters 1x10",
+      "season": 1,
+      "episode": 10,
+      "image": "https://image.tmdb.org/t/p/w500/uB0Nxqva9znFojlLBgBJtEx6wIB.jpg",
+      "description": "Zoe's zombie vision gets in the way when the Super Monsters learn a new game.",
+      "year": "2017",
+      "duration": "23m",
+      "rating": "7.522",
+      "genres": [
+        "Animation",
+        "Hindi Dub",
+        "Kids"
+      ],
+      "cast": [
+        "Alessandro Juliani",
+        "Andrea Libman",
+        "Britt McKillip",
+        "Erin Mathews",
+        "Vincent Tong"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": null,
+      "prev_episode": "https://animedekho.app/epi/super-monsters-1x9/"
+    }
+  ],
+  "total_episodes": 10
+}

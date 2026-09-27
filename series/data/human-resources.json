@@ -1,0 +1,386 @@
+{
+  "url": "https://animedekho.app/series-hindi/human-resources/",
+  "title": "Human Resources",
+  "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+  "description": "Lovebugs, Hormone Monsters and a parade of other creatures juggle romance, workplace drama and their human clients’ needs in this “Big Mouth” spinoff.",
+  "year": "2022",
+  "genres": [
+    "Animation",
+    "Cartoon",
+    "Comedy",
+    "Hindi Dub"
+  ],
+  "cast": [
+    "Aidy Bryant",
+    "Bobby Cannavale",
+    "Brandon Kyle Goodman",
+    "David Thewlis",
+    "Keke Palmer",
+    "Aimi",
+    "Daisuke Namikawa",
+    "Hikaru Tono",
+    "Bobby Moynihan",
+    "Demetri Martin",
+    "Eric Edelstein",
+    "Frank Welker",
+    "Grey DeLisle",
+    "Kate Micucci",
+    "Haruki Sayama",
+    "Hiroshi Yanaka",
+    "Jin Nishimura",
+    "Haruki Sayama",
+    "Hiroshi Yanaka",
+    "Jin Nishimura",
+    "Akira Miki",
+    "Asuna Tomari",
+    "Hiroshi Naka",
+    "Ai Kayano",
+    "Asami Seto",
+    "Chinatsu Akasaki"
+  ],
+  "episodes": [
+    {
+      "title": "S1-E1Birth",
+      "url": "https://animedekho.app/epi/human-resources-1x1/",
+      "image": "https://image.tmdb.org/t/p/w185/oHKtrYU4sZvZ84sa3mFggi5JZWx.jpg"
+    },
+    {
+      "title": "S1-E2Training Day",
+      "url": "https://animedekho.app/epi/human-resources-1x2/",
+      "image": "https://image.tmdb.org/t/p/w185/sY1vdYlJNE60rqekbAKFWbEnkSu.jpg"
+    },
+    {
+      "title": "S1-E3Bad Mummies",
+      "url": "https://animedekho.app/epi/human-resources-1x3/",
+      "image": "https://image.tmdb.org/t/p/w185/jNg4IP9gKirYtc2rEpCRLhsYWYB.jpg"
+    },
+    {
+      "title": "S1-E4Rutgers is for Lovers",
+      "url": "https://animedekho.app/epi/human-resources-1x4/",
+      "image": "https://image.tmdb.org/t/p/w185/yfppogeHDbOktV1qjUPKP2fWmmg.jpg"
+    },
+    {
+      "title": "S1-E5Love in the Time of Postpartum",
+      "url": "https://animedekho.app/epi/human-resources-1x5/",
+      "image": "https://image.tmdb.org/t/p/w185/4QbL9zZdIxaODmcWqhUz8TZlu5C.jpg"
+    },
+    {
+      "title": "S1-E6The Addiction Angel",
+      "url": "https://animedekho.app/epi/human-resources-1x6/",
+      "image": "https://image.tmdb.org/t/p/w185/r04eX5U4F0zXpmL2WffxyHyAsV8.jpg"
+    },
+    {
+      "title": "S1-E7International Creature Convention",
+      "url": "https://animedekho.app/epi/human-resources-1x7/",
+      "image": "https://image.tmdb.org/t/p/w185/9q18wTcrayzNcLMagArxkdVCIP4.jpg"
+    },
+    {
+      "title": "S1-E8The Light",
+      "url": "https://animedekho.app/epi/human-resources-1x8/",
+      "image": "https://image.tmdb.org/t/p/w185/xDYOk6bBREdc3ZsYPh9KJVoeEmH.jpg"
+    },
+    {
+      "title": "S1-E9It's Almost Over",
+      "url": "https://animedekho.app/epi/human-resources-1x9/",
+      "image": "https://image.tmdb.org/t/p/w185/10nTqEnYgW1ajo1pW8p8YI73Hnz.jpg"
+    },
+    {
+      "title": "S1-E10Shitstorm",
+      "url": "https://animedekho.app/epi/human-resources-1x10/",
+      "image": "https://image.tmdb.org/t/p/w185/ae7VEr9wMcaObJEe1t8BuLt5TZY.jpg"
+    }
+  ],
+  "episodes_data": [
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x1/",
+      "title": "Human Resources 1x1",
+      "season": 1,
+      "episode": 1,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "Junior Lovebug Emmy panics when she's assigned her first client: a woman who's about to go into labor. Hormone Monster Maury celebrates a big birthday.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x2/",
+      "prev_episode": null
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x2/",
+      "title": "Human Resources 1x2",
+      "season": 1,
+      "episode": 2,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "After one too many romps in the break room, the Hormone Monsters are sent to sensitivity training. Walter takes Emmy on an eye-opening ride-along.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x3/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x1/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x3/",
+      "title": "Human Resources 1x3",
+      "season": 1,
+      "episode": 3,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "Emmy struggles to help Becca bond with her baby, the Shame Wizard tries to impress his mom, and Connie takes care of Maury's little fellas for a day.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x4/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x2/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x4/",
+      "title": "Human Resources 1x4",
+      "season": 1,
+      "episode": 4,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "Rochelle and Petra clash over whether client Nadja should pick a college based on love or ambition. Logic Rock Pete learns his office nickname.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x5/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x3/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x5/",
+      "title": "Human Resources 1x5",
+      "season": 1,
+      "episode": 5,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "Becca's return to work stirs up confusing emotions, sparking a showdown between her creatures and Barry's. Connie and Maury set Sonya up on a date.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x6/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x4/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x6/",
+      "title": "Human Resources 1x6",
+      "season": 1,
+      "episode": 6,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "As Pete and Rochelle help Doug prep for his wedding, Addiction Angel Dante throws a wrench in the plans. Joe and Gil steal one of Maury's top clients.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x7/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x5/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x7/",
+      "title": "Human Resources 1x7",
+      "season": 1,
+      "episode": 7,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "Betrayals, romantic declarations and twisted schemes abound at a raucous creature convention in the skies over North Korea.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x8/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x6/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x8/",
+      "title": "Human Resources 1x8",
+      "season": 1,
+      "episode": 8,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "While Maury and friends cheer on a cockfight in the back of the bar, Sonya reveals the torrid, star-crossed story behind her firing.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x9/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x7/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x9/",
+      "title": "Human Resources 1x9",
+      "season": 1,
+      "episode": 9,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "As Yara's health declines, Walter and Pete scramble to fend off Keith from Grief. The feud between Emmy and Rochelle boils over at the office.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/human-resources-1x10/",
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x8/"
+    },
+    {
+      "url": "https://animedekho.app/epi/human-resources-1x10/",
+      "title": "Human Resources 1x10",
+      "season": 1,
+      "episode": 10,
+      "image": "https://image.tmdb.org/t/p/w500/pOJC46PNC4ivjkkDnUNx209YIw4.jpg",
+      "description": "A monster hurricane forces Emmy, Rochelle and their clients to take shelter together. Meanwhile, the main office loses power — and its portals to Earth.",
+      "year": "2022",
+      "duration": "m",
+      "rating": "6.948",
+      "genres": [
+        "Animation",
+        "Cartoon",
+        "Comedy",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Aidy Bryant",
+        "Bobby Cannavale",
+        "Brandon Kyle Goodman",
+        "David Thewlis",
+        "Keke Palmer"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": null,
+      "prev_episode": "https://animedekho.app/epi/human-resources-1x9/"
+    }
+  ],
+  "total_episodes": 10
+}

@@ -1,0 +1,203 @@
+{
+  "url": "https://animedekho.app/series-hindi/ramayan/",
+  "title": "Ramayan",
+  "image": "https://i.ibb.co/hLZjNqt/image.png",
+  "description": "",
+  "year": null,
+  "genres": [
+    "Action",
+    "Animation",
+    "Hindi Dub"
+  ],
+  "cast": [
+    "Campbell Cooley",
+    "Chance Perez",
+    "Hunter Deno",
+    "Jeffrey Wright",
+    "Akane Misaka",
+    "Ayasa Ito",
+    "Hana Hishikawa",
+    "Asami Seto",
+    "Ayumu Murase",
+    "Jun Fukuyama",
+    "Aoi Yuki",
+    "Azumi Waki",
+    "Kaede Hondo",
+    "Bruce Boxleitner",
+    "Elijah Wood",
+    "Emmanuelle Chriqui",
+    "Carl Lumbly",
+    "George Newbern",
+    "Kevin Conroy",
+    "Akio Otsuka",
+    "Miyu Irino",
+    "Setsuo Ito"
+  ],
+  "episodes": [
+    {
+      "title": "S1-E1Season 1 Episode 1",
+      "url": "https://animedekho.app/epi/ramayan-1x1/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E2Season 1 Episode 2",
+      "url": "https://animedekho.app/epi/ramayan-1x2/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E3Season 1 Episode 3",
+      "url": "https://animedekho.app/epi/ramayan-1x3/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E4Season 1 Episode 4",
+      "url": "https://animedekho.app/epi/ramayan-1x4/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E5Season 1 Episode 5",
+      "url": "https://animedekho.app/epi/ramayan-1x5/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E6Season 1 Episode 6",
+      "url": "https://animedekho.app/epi/ramayan-1x6/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    }
+  ],
+  "episodes_data": [
+    {
+      "url": "https://animedekho.app/epi/ramayan-1x1/",
+      "title": "Ramayan 1x1",
+      "season": 1,
+      "episode": 1,
+      "image": "https://i.ibb.co/hLZjNqt/image.png",
+      "description": null,
+      "year": null,
+      "duration": "23m",
+      "rating": null,
+      "genres": [
+        "Action",
+        "Animation",
+        "Hindi Dub"
+      ],
+      "cast": [],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/ramayan-1x2/",
+      "prev_episode": null
+    },
+    {
+      "url": "https://animedekho.app/epi/ramayan-1x2/",
+      "title": "Ramayan 1x2",
+      "season": 1,
+      "episode": 2,
+      "image": "https://i.ibb.co/hLZjNqt/image.png",
+      "description": null,
+      "year": null,
+      "duration": "23m",
+      "rating": null,
+      "genres": [
+        "Action",
+        "Animation",
+        "Hindi Dub"
+      ],
+      "cast": [],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/ramayan-1x3/",
+      "prev_episode": "https://animedekho.app/epi/ramayan-1x1/"
+    },
+    {
+      "url": "https://animedekho.app/epi/ramayan-1x3/",
+      "title": "Ramayan 1x3",
+      "season": 1,
+      "episode": 3,
+      "image": "https://i.ibb.co/hLZjNqt/image.png",
+      "description": null,
+      "year": null,
+      "duration": "23m",
+      "rating": null,
+      "genres": [
+        "Action",
+        "Animation",
+        "Hindi Dub"
+      ],
+      "cast": [],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/ramayan-1x4/",
+      "prev_episode": "https://animedekho.app/epi/ramayan-1x2/"
+    },
+    {
+      "url": "https://animedekho.app/epi/ramayan-1x4/",
+      "title": "Ramayan 1x4",
+      "season": 1,
+      "episode": 4,
+      "image": "https://i.ibb.co/hLZjNqt/image.png",
+      "description": null,
+      "year": null,
+      "duration": "23m",
+      "rating": null,
+      "genres": [
+        "Action",
+        "Animation",
+        "Hindi Dub"
+      ],
+      "cast": [],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/ramayan-1x5/",
+      "prev_episode": "https://animedekho.app/epi/ramayan-1x3/"
+    },
+    {
+      "url": "https://animedekho.app/epi/ramayan-1x5/",
+      "title": "Ramayan 1x5",
+      "season": 1,
+      "episode": 5,
+      "image": "https://i.ibb.co/hLZjNqt/image.png",
+      "description": null,
+      "year": null,
+      "duration": "23m",
+      "rating": null,
+      "genres": [
+        "Action",
+        "Animation",
+        "Hindi Dub"
+      ],
+      "cast": [],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/ramayan-1x6/",
+      "prev_episode": "https://animedekho.app/epi/ramayan-1x4/"
+    },
+    {
+      "url": "https://animedekho.app/epi/ramayan-1x6/",
+      "title": "Ramayan 1x6",
+      "season": 1,
+      "episode": 6,
+      "image": "https://i.ibb.co/hLZjNqt/image.png",
+      "description": null,
+      "year": null,
+      "duration": "23m",
+      "rating": null,
+      "genres": [
+        "Action",
+        "Animation",
+        "Hindi Dub"
+      ],
+      "cast": [],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": null,
+      "prev_episode": "https://animedekho.app/epi/ramayan-1x5/"
+    }
+  ],
+  "total_episodes": 6
+}

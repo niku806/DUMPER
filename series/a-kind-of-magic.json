@@ -1,0 +1,158 @@
+{
+  "url": "https://animedekho.app/series-hindi/a-kind-of-magic/",
+  "title": "A Kind of Magic",
+  "image": "https://image.tmdb.org/t/p/w500/oeqHs3NmNX49MkFLJ8o3ILnVL5R.jpg",
+  "description": "A Kind of Magic is a French animated television series created by Charile Skanker and his animation company Xilam. The story deals with a kid named Tom and his family’s problems, including his sister Cindy, who is crazy after every boy she sees, his toad ‘His Highness’, his evil Aunt Ferocia who wants to turn him evil as well, and his parents who have been exiled from Fairyland and now have to live on Earth.The series has been an instant hit and was rated the most popular series at the 2007 MIPCOM Junior trade show, attracting over 280 buyers.",
+  "year": "2008",
+  "genres": [
+    "Cartoon",
+    "Comedy",
+    "Family",
+    "Hindi Dub"
+  ],
+  "cast": [
+    "Kelly Sheridan",
+    "Mark Oliver",
+    "Pauline Newstone",
+    "Trevor Devall",
+    "Ayane Sakura",
+    "Hiro Shimono",
+    "Kisho Taniyama",
+    "Alex Désert",
+    "Brian Bloom",
+    "Chris Cox",
+    "Fumiko Orikasa",
+    "Megumi Takamoto",
+    "Rie Kugimiya",
+    "Katsumi Fukuhara",
+    "Kentaro Tone",
+    "Miyuri Shimabukuro",
+    "David Sobolov",
+    "Jeff Bennett",
+    "Jonathan Adams",
+    "Anouar H. Smaine",
+    "Chris Diamantopoulos",
+    "Chris Jai Alex",
+    "Lavina Tandon",
+    "Mayank Tandon",
+    "Shilpa Tulaskar",
+    "Jiang Guangtao",
+    "Ma Zhengyang",
+    "Tu Xiongfei"
+  ],
+  "episodes": [
+    {
+      "title": "S1-E1Episode 1",
+      "url": "https://animedekho.app/epi/a-kind-of-magic-1x1/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E2Episode 2",
+      "url": "https://animedekho.app/epi/a-kind-of-magic-1x2/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    }
+  ],
+  "episodes_data": [
+    {
+      "url": "https://animedekho.app/epi/a-kind-of-magic-1x1/",
+      "title": "A Kind of Magic Season 1 Episode 1",
+      "season": 1,
+      "episode": 1,
+      "image": "https://image.tmdb.org/t/p/w500/oeqHs3NmNX49MkFLJ8o3ILnVL5R.jpg",
+      "description": null,
+      "year": "2008",
+      "duration": "25, 11m",
+      "rating": "6.5",
+      "genres": [
+        "Cartoon",
+        "Comedy",
+        "Family",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Kelly Sheridan",
+        "Mark Oliver",
+        "Pauline Newstone",
+        "Trevor Devall"
+      ],
+      "streaming_servers": [
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=1&trid=37772&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9Mzc3NzImdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D1%26trid%3D37772%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDElMjZ0cmlkJTNEMzc3NzIlMjZ0cnR5cGUlM0Qy"
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9Mzc3NzImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=37772&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9Mzc3NzImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=37772&trtype=2"
+        }
+      ],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/a-kind-of-magic-1x2/",
+      "prev_episode": null
+    },
+    {
+      "url": "https://animedekho.app/epi/a-kind-of-magic-1x2/",
+      "title": "A Kind of Magic Season 1 Episode 2",
+      "season": 1,
+      "episode": 2,
+      "image": "https://image.tmdb.org/t/p/w500/oeqHs3NmNX49MkFLJ8o3ILnVL5R.jpg",
+      "description": null,
+      "year": "2008",
+      "duration": "25, 11m",
+      "rating": "6.5",
+      "genres": [
+        "Cartoon",
+        "Comedy",
+        "Family",
+        "Hindi Dub"
+      ],
+      "cast": [
+        "Kelly Sheridan",
+        "Mark Oliver",
+        "Pauline Newstone",
+        "Trevor Devall"
+      ],
+      "streaming_servers": [
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=1&trid=37773&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9Mzc3NzMmdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D1%26trid%3D37773%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDElMjZ0cmlkJTNEMzc3NzMlMjZ0cnR5cGUlM0Qy"
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9Mzc3NzMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=37773&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9Mzc3NzMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=37773&trtype=2"
+        }
+      ],
+      "iframes": [],
+      "next_episode": null,
+      "prev_episode": "https://animedekho.app/epi/a-kind-of-magic-1x1/"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,821 @@
+{
+  "url": "https://animedekho.app/series-hindi/dandelion/",
+  "title": "Dandelion",
+  "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+  "description": "At an afterlife agency where angels guide lingering souls, Tetsuo and Misaki take on any challenge to help the dead find peace in their own offbeat style.",
+  "year": "2026",
+  "genres": [
+    "Animation",
+    "Anime",
+    "Comedy",
+    "Drama",
+    "Hindi Dub",
+    "Sci-Fi & Fantasy"
+  ],
+  "cast": [
+    "Chikahiro Kobayashi",
+    "Fumihiko Tachiki",
+    "Kazuhiko Inoue",
+    "Kensho Ono",
+    "Mamoru Miyano",
+    "Glen Powell",
+    "Jameela Jamil",
+    "Jenna Ortega",
+    "Ami Koshimizu",
+    "Jun Fukuyama",
+    "Takahiro Sakurai",
+    "Billy West",
+    "Christopher Judge",
+    "Diedrich Bader",
+    "Ayane Sakura",
+    "Cocoro Kikuchi",
+    "Fumiko Orikasa",
+    "Alan Young",
+    "Brian Cummings",
+    "Chuck McCann",
+    "Baiju Gopinathan",
+    "Dan McHale",
+    "Lawrence Serrao",
+    "Ami Koshimizu",
+    "Fairouz Ai",
+    "Fukushi Ochiai",
+    "Chi McBride",
+    "Drake Bell",
+    "J.K. Simmons"
+  ],
+  "episodes": [
+    {
+      "title": "S1-E1Episode 1",
+      "url": "https://animedekho.app/epi/dandelion-1x1/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E2Episode 2",
+      "url": "https://animedekho.app/epi/dandelion-1x2/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E3Episode 3",
+      "url": "https://animedekho.app/epi/dandelion-1x3/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E4Episode 4",
+      "url": "https://animedekho.app/epi/dandelion-1x4/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E5Episode 5",
+      "url": "https://animedekho.app/epi/dandelion-1x5/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E6Episode 6",
+      "url": "https://animedekho.app/epi/dandelion-1x6/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    },
+    {
+      "title": "S1-E7Episode 7",
+      "url": "https://animedekho.app/epi/dandelion-1x7/",
+      "image": "https://animedekho.app/wp-content/themes/toronites/resources/assets/img/cnt/episode.svg"
+    }
+  ],
+  "episodes_data": [
+    {
+      "url": "https://animedekho.app/epi/dandelion-1x1/",
+      "title": "Dandelion Season 1 Episode 1",
+      "season": 1,
+      "episode": 1,
+      "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "description": null,
+      "year": "2026",
+      "duration": "m",
+      "rating": null,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Hindi Dub",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Chikahiro Kobayashi",
+        "Fumihiko Tachiki",
+        "Kazuhiko Inoue",
+        "Kensho Ono",
+        "Mamoru Miyano"
+      ],
+      "streaming_servers": [
+        {
+          "name": "VidStream",
+          "url": "https://animedekho.app/embed/316973/1-1",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9lbWJlZC8zMTY5NzMvMS0x"
+        },
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=0&trid=56950&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTAmdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D0%26trid%3D56950%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDAlMjZ0cmlkJTNENTY5NTAlMjZ0cnR5cGUlM0Qy"
+        },
+        {
+          "name": "Vidmoly",
+          "url": "https://animedekho.app/?trdekho=4&trid=56950&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTAmdHJ0eXBlPTI="
+        },
+        {
+          "name": "Omega",
+          "url": "https://animedekho.app/?trdekho=5&trid=56950&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz01JnRyaWQ9NTY5NTAmdHJ0eXBlPTI="
+        },
+        {
+          "name": "MirrorBot",
+          "url": "https://animedekho.app/?trdekho=3&trid=56950&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTAmdHJ0eXBlPTI="
+        },
+        {
+          "name": "VidCloud",
+          "url": "https://animedekho.app/?trdekho=2&trid=56950&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTAmdHJ0eXBlPTI="
+        },
+        {
+          "name": "SRuby",
+          "url": "https://animedekho.app/?trdekho=1&trid=56950&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTAmdHJ0eXBlPTI="
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTAmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56950&trtype=2"
+        },
+        {
+          "label": "MirrorBot (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTAmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=3&trid=56950&trtype=2"
+        },
+        {
+          "label": "VidCloud (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTAmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=2&trid=56950&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTAmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56950&trtype=2"
+        },
+        {
+          "label": "SRuby (1080p, 720p, 360p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTAmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=56950&trtype=2"
+        },
+        {
+          "label": "Vidmoly (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTAmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=4&trid=56950&trtype=2"
+        }
+      ],
+      "iframes": [
+        "https://animedekho.app/embed/316973/1-1"
+      ],
+      "next_episode": "https://animedekho.app/epi/dandelion-1x2/",
+      "prev_episode": null
+    },
+    {
+      "url": "https://animedekho.app/epi/dandelion-1x2/",
+      "title": "Dandelion Season 1 Episode 2",
+      "season": 1,
+      "episode": 2,
+      "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "description": null,
+      "year": "2026",
+      "duration": "m",
+      "rating": null,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Hindi Dub",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Chikahiro Kobayashi",
+        "Fumihiko Tachiki",
+        "Kazuhiko Inoue",
+        "Kensho Ono",
+        "Mamoru Miyano"
+      ],
+      "streaming_servers": [
+        {
+          "name": "VidStream",
+          "url": "https://animedekho.app/embed/316973/1-2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9lbWJlZC8zMTY5NzMvMS0y"
+        },
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=0&trid=56951&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTEmdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D0%26trid%3D56951%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDAlMjZ0cmlkJTNENTY5NTElMjZ0cnR5cGUlM0Qy"
+        },
+        {
+          "name": "Vidmoly",
+          "url": "https://animedekho.app/?trdekho=4&trid=56951&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTEmdHJ0eXBlPTI="
+        },
+        {
+          "name": "Omega",
+          "url": "https://animedekho.app/?trdekho=5&trid=56951&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz01JnRyaWQ9NTY5NTEmdHJ0eXBlPTI="
+        },
+        {
+          "name": "MirrorBot",
+          "url": "https://animedekho.app/?trdekho=3&trid=56951&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTEmdHJ0eXBlPTI="
+        },
+        {
+          "name": "VidCloud",
+          "url": "https://animedekho.app/?trdekho=2&trid=56951&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTEmdHJ0eXBlPTI="
+        },
+        {
+          "name": "SRuby",
+          "url": "https://animedekho.app/?trdekho=1&trid=56951&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTEmdHJ0eXBlPTI="
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTEmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56951&trtype=2"
+        },
+        {
+          "label": "MirrorBot (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTEmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=3&trid=56951&trtype=2"
+        },
+        {
+          "label": "VidCloud (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTEmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=2&trid=56951&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTEmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56951&trtype=2"
+        },
+        {
+          "label": "SRuby (1080p, 720p, 360p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTEmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=56951&trtype=2"
+        },
+        {
+          "label": "Vidmoly (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTEmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=4&trid=56951&trtype=2"
+        }
+      ],
+      "iframes": [
+        "https://animedekho.app/embed/316973/1-2"
+      ],
+      "next_episode": "https://animedekho.app/epi/dandelion-1x3/",
+      "prev_episode": "https://animedekho.app/epi/dandelion-1x1/"
+    },
+    {
+      "url": "https://animedekho.app/epi/dandelion-1x3/",
+      "title": "Dandelion Season 1 Episode 3",
+      "season": 1,
+      "episode": 3,
+      "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "description": null,
+      "year": "2026",
+      "duration": "m",
+      "rating": null,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Hindi Dub",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Chikahiro Kobayashi",
+        "Fumihiko Tachiki",
+        "Kazuhiko Inoue",
+        "Kensho Ono",
+        "Mamoru Miyano"
+      ],
+      "streaming_servers": [
+        {
+          "name": "VidStream",
+          "url": "https://animedekho.app/embed/316973/1-3",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9lbWJlZC8zMTY5NzMvMS0z"
+        },
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=0&trid=56952&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTImdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D0%26trid%3D56952%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDAlMjZ0cmlkJTNENTY5NTIlMjZ0cnR5cGUlM0Qy"
+        },
+        {
+          "name": "Vidmoly",
+          "url": "https://animedekho.app/?trdekho=4&trid=56952&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTImdHJ0eXBlPTI="
+        },
+        {
+          "name": "Omega",
+          "url": "https://animedekho.app/?trdekho=5&trid=56952&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz01JnRyaWQ9NTY5NTImdHJ0eXBlPTI="
+        },
+        {
+          "name": "MirrorBot",
+          "url": "https://animedekho.app/?trdekho=3&trid=56952&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTImdHJ0eXBlPTI="
+        },
+        {
+          "name": "VidCloud",
+          "url": "https://animedekho.app/?trdekho=2&trid=56952&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTImdHJ0eXBlPTI="
+        },
+        {
+          "name": "SRuby",
+          "url": "https://animedekho.app/?trdekho=1&trid=56952&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTImdHJ0eXBlPTI="
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56952&trtype=2"
+        },
+        {
+          "label": "MirrorBot (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=3&trid=56952&trtype=2"
+        },
+        {
+          "label": "VidCloud (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=2&trid=56952&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56952&trtype=2"
+        },
+        {
+          "label": "SRuby (1080p, 720p, 360p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=56952&trtype=2"
+        },
+        {
+          "label": "Vidmoly (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTImdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=4&trid=56952&trtype=2"
+        }
+      ],
+      "iframes": [
+        "https://animedekho.app/embed/316973/1-3"
+      ],
+      "next_episode": "https://animedekho.app/epi/dandelion-1x4/",
+      "prev_episode": "https://animedekho.app/epi/dandelion-1x2/"
+    },
+    {
+      "url": "https://animedekho.app/epi/dandelion-1x4/",
+      "title": "Dandelion Season 1 Episode 4",
+      "season": 1,
+      "episode": 4,
+      "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "description": null,
+      "year": "2026",
+      "duration": "m",
+      "rating": null,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Hindi Dub",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Chikahiro Kobayashi",
+        "Fumihiko Tachiki",
+        "Kazuhiko Inoue",
+        "Kensho Ono",
+        "Mamoru Miyano"
+      ],
+      "streaming_servers": [
+        {
+          "name": "VidStream",
+          "url": "https://animedekho.app/embed/316973/1-4",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9lbWJlZC8zMTY5NzMvMS00"
+        },
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=0&trid=56953&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTMmdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D0%26trid%3D56953%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDAlMjZ0cmlkJTNENTY5NTMlMjZ0cnR5cGUlM0Qy"
+        },
+        {
+          "name": "Vidmoly",
+          "url": "https://animedekho.app/?trdekho=4&trid=56953&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTMmdHJ0eXBlPTI="
+        },
+        {
+          "name": "Omega",
+          "url": "https://animedekho.app/?trdekho=5&trid=56953&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz01JnRyaWQ9NTY5NTMmdHJ0eXBlPTI="
+        },
+        {
+          "name": "MirrorBot",
+          "url": "https://animedekho.app/?trdekho=3&trid=56953&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTMmdHJ0eXBlPTI="
+        },
+        {
+          "name": "VidCloud",
+          "url": "https://animedekho.app/?trdekho=2&trid=56953&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTMmdHJ0eXBlPTI="
+        },
+        {
+          "name": "SRuby",
+          "url": "https://animedekho.app/?trdekho=1&trid=56953&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTMmdHJ0eXBlPTI="
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56953&trtype=2"
+        },
+        {
+          "label": "MirrorBot (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=3&trid=56953&trtype=2"
+        },
+        {
+          "label": "VidCloud (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=2&trid=56953&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56953&trtype=2"
+        },
+        {
+          "label": "SRuby (1080p, 720p, 360p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=56953&trtype=2"
+        },
+        {
+          "label": "Vidmoly (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTMmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=4&trid=56953&trtype=2"
+        }
+      ],
+      "iframes": [
+        "https://animedekho.app/embed/316973/1-4"
+      ],
+      "next_episode": "https://animedekho.app/epi/dandelion-1x5/",
+      "prev_episode": "https://animedekho.app/epi/dandelion-1x3/"
+    },
+    {
+      "url": "https://animedekho.app/epi/dandelion-1x5/",
+      "title": "Dandelion Season 1 Episode 5",
+      "season": 1,
+      "episode": 5,
+      "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "description": null,
+      "year": "2026",
+      "duration": "m",
+      "rating": null,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Hindi Dub",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Chikahiro Kobayashi",
+        "Fumihiko Tachiki",
+        "Kazuhiko Inoue",
+        "Kensho Ono",
+        "Mamoru Miyano"
+      ],
+      "streaming_servers": [
+        {
+          "name": "VidStream",
+          "url": "https://animedekho.app/embed/316973/1-5",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9lbWJlZC8zMTY5NzMvMS01"
+        },
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=0&trid=56954&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTQmdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D0%26trid%3D56954%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDAlMjZ0cmlkJTNENTY5NTQlMjZ0cnR5cGUlM0Qy"
+        },
+        {
+          "name": "Vidmoly",
+          "url": "https://animedekho.app/?trdekho=4&trid=56954&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTQmdHJ0eXBlPTI="
+        },
+        {
+          "name": "Omega",
+          "url": "https://animedekho.app/?trdekho=5&trid=56954&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz01JnRyaWQ9NTY5NTQmdHJ0eXBlPTI="
+        },
+        {
+          "name": "MirrorBot",
+          "url": "https://animedekho.app/?trdekho=3&trid=56954&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTQmdHJ0eXBlPTI="
+        },
+        {
+          "name": "VidCloud",
+          "url": "https://animedekho.app/?trdekho=2&trid=56954&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTQmdHJ0eXBlPTI="
+        },
+        {
+          "name": "SRuby",
+          "url": "https://animedekho.app/?trdekho=1&trid=56954&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTQmdHJ0eXBlPTI="
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTQmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56954&trtype=2"
+        },
+        {
+          "label": "MirrorBot (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTQmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=3&trid=56954&trtype=2"
+        },
+        {
+          "label": "VidCloud (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTQmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=2&trid=56954&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTQmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56954&trtype=2"
+        },
+        {
+          "label": "SRuby (1080p, 720p, 360p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTQmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=56954&trtype=2"
+        },
+        {
+          "label": "Vidmoly (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTQmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=4&trid=56954&trtype=2"
+        }
+      ],
+      "iframes": [
+        "https://animedekho.app/embed/316973/1-5"
+      ],
+      "next_episode": "https://animedekho.app/epi/dandelion-1x6/",
+      "prev_episode": "https://animedekho.app/epi/dandelion-1x4/"
+    },
+    {
+      "url": "https://animedekho.app/epi/dandelion-1x6/",
+      "title": "Dandelion Season 1 Episode 6",
+      "season": 1,
+      "episode": 6,
+      "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "description": null,
+      "year": "2026",
+      "duration": "m",
+      "rating": null,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Hindi Dub",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Chikahiro Kobayashi",
+        "Fumihiko Tachiki",
+        "Kazuhiko Inoue",
+        "Kensho Ono",
+        "Mamoru Miyano"
+      ],
+      "streaming_servers": [
+        {
+          "name": "VidStream",
+          "url": "https://animedekho.app/embed/316973/1-6",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9lbWJlZC8zMTY5NzMvMS02"
+        },
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=0&trid=56955&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTUmdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D0%26trid%3D56955%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDAlMjZ0cmlkJTNENTY5NTUlMjZ0cnR5cGUlM0Qy"
+        },
+        {
+          "name": "Vidmoly",
+          "url": "https://animedekho.app/?trdekho=4&trid=56955&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTUmdHJ0eXBlPTI="
+        },
+        {
+          "name": "Omega",
+          "url": "https://animedekho.app/?trdekho=5&trid=56955&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz01JnRyaWQ9NTY5NTUmdHJ0eXBlPTI="
+        },
+        {
+          "name": "MirrorBot",
+          "url": "https://animedekho.app/?trdekho=3&trid=56955&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTUmdHJ0eXBlPTI="
+        },
+        {
+          "name": "VidCloud",
+          "url": "https://animedekho.app/?trdekho=2&trid=56955&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTUmdHJ0eXBlPTI="
+        },
+        {
+          "name": "SRuby",
+          "url": "https://animedekho.app/?trdekho=1&trid=56955&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTUmdHJ0eXBlPTI="
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTUmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56955&trtype=2"
+        },
+        {
+          "label": "MirrorBot (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTUmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=3&trid=56955&trtype=2"
+        },
+        {
+          "label": "VidCloud (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTUmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=2&trid=56955&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTUmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56955&trtype=2"
+        },
+        {
+          "label": "SRuby (1080p, 720p, 360p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTUmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=56955&trtype=2"
+        },
+        {
+          "label": "Vidmoly (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTUmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=4&trid=56955&trtype=2"
+        }
+      ],
+      "iframes": [
+        "https://animedekho.app/embed/316973/1-6"
+      ],
+      "next_episode": "https://animedekho.app/epi/dandelion-1x7/",
+      "prev_episode": "https://animedekho.app/epi/dandelion-1x5/"
+    },
+    {
+      "url": "https://animedekho.app/epi/dandelion-1x7/",
+      "title": "Dandelion Season 1 Episode 7",
+      "season": 1,
+      "episode": 7,
+      "image": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+      "description": null,
+      "year": "2026",
+      "duration": "m",
+      "rating": null,
+      "genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Hindi Dub",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Chikahiro Kobayashi",
+        "Fumihiko Tachiki",
+        "Kazuhiko Inoue",
+        "Kensho Ono",
+        "Mamoru Miyano"
+      ],
+      "streaming_servers": [
+        {
+          "name": "VidStream",
+          "url": "https://animedekho.app/embed/316973/1-7",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9lbWJlZC8zMTY5NzMvMS03"
+        },
+        {
+          "name": "HydraX",
+          "url": "https://animedekho.app/?trdekho=0&trid=56956&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTYmdHJ0eXBlPTI="
+        },
+        {
+          "name": "NeoCDN",
+          "url": "https://animedekho.app/aaa/myth/play.php?id=https%3A%2F%2Fanimedekho.app%2F%3Ftrdekho%3D0%26trid%3D56956%26trtype%3D2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC9hYWEvbXl0aC9wbGF5LnBocD9pZD1odHRwcyUzQSUyRiUyRmFuaW1lZGVraG8uYXBwJTJGJTNGdHJkZWtobyUzRDAlMjZ0cmlkJTNENTY5NTYlMjZ0cnR5cGUlM0Qy"
+        },
+        {
+          "name": "Vidmoly",
+          "url": "https://animedekho.app/?trdekho=4&trid=56956&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTYmdHJ0eXBlPTI="
+        },
+        {
+          "name": "Omega",
+          "url": "https://animedekho.app/?trdekho=5&trid=56956&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz01JnRyaWQ9NTY5NTYmdHJ0eXBlPTI="
+        },
+        {
+          "name": "MirrorBot",
+          "url": "https://animedekho.app/?trdekho=3&trid=56956&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTYmdHJ0eXBlPTI="
+        },
+        {
+          "name": "VidCloud",
+          "url": "https://animedekho.app/?trdekho=2&trid=56956&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTYmdHJ0eXBlPTI="
+        },
+        {
+          "name": "SRuby",
+          "url": "https://animedekho.app/?trdekho=1&trid=56956&trtype=2",
+          "raw": "aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTYmdHJ0eXBlPTI="
+        }
+      ],
+      "download_links": [
+        {
+          "label": "NeoCDN (All Qualities)",
+          "url": "https://animedekho.app/aaa/myth/dl.php?id=https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTYmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56956&trtype=2"
+        },
+        {
+          "label": "MirrorBot (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0zJnRyaWQ9NTY5NTYmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=3&trid=56956&trtype=2"
+        },
+        {
+          "label": "VidCloud (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0yJnRyaWQ9NTY5NTYmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=2&trid=56956&trtype=2"
+        },
+        {
+          "label": "HydraX (1080p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0wJnRyaWQ9NTY5NTYmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=0&trid=56956&trtype=2"
+        },
+        {
+          "label": "SRuby (1080p, 720p, 360p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz0xJnRyaWQ9NTY5NTYmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=1&trid=56956&trtype=2"
+        },
+        {
+          "label": "Vidmoly (720p)",
+          "url": "https://animedekho.app/download/dl2.php?url=aHR0cHM6Ly9hbmltZWRla2hvLmFwcC8/dHJkZWtobz00JnRyaWQ9NTY5NTYmdHJ0eXBlPTI=",
+          "decoded": "https://animedekho.app/?trdekho=4&trid=56956&trtype=2"
+        }
+      ],
+      "iframes": [
+        "https://animedekho.app/embed/316973/1-7"
+      ],
+      "next_episode": null,
+      "prev_episode": "https://animedekho.app/epi/dandelion-1x6/"
+    }
+  ],
+  "total_episodes": 7
+}
