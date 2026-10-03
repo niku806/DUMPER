@@ -28,10 +28,7 @@
     "Documentary"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt43700444",
-    "url": "https://slast430did.com/play/tt43700444"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "720p",
@@ -46,5 +43,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

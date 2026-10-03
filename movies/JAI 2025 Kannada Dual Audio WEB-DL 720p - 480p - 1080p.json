@@ -30,10 +30,7 @@
     "Action"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt35683342",
-    "url": "https://slast430did.com/play/tt35683342"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "720p 10bit X265 HEVC",
@@ -53,5 +50,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

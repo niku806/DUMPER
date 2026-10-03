@@ -30,10 +30,7 @@
     "720p Hollywood Movies (DVDRip) (BRRip)"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt4682266",
-    "url": "https://slast430did.com/play/tt4682266"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "720p",
@@ -48,5 +45,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

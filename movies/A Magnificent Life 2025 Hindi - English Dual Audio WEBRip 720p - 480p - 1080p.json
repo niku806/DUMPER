@@ -31,10 +31,7 @@
     "Animation"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt13968662",
-    "url": "https://slast430did.com/play/tt13968662"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "540p x264",
@@ -64,5 +61,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

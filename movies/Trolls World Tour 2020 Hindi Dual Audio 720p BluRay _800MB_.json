@@ -32,10 +32,7 @@
     "Dual Audio [Hindi-English] Movies Mkv [720p]"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt6587640",
-    "url": "https://slast430did.com/play/tt6587640"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "480P",
@@ -55,5 +52,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

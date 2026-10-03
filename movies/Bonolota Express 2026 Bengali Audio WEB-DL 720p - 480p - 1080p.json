@@ -31,10 +31,7 @@
     "Drama"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt38792109",
-    "url": "https://slast430did.com/play/tt38792109"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "480p",
@@ -59,5 +56,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

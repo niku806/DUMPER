@@ -32,10 +32,7 @@
     "Dual Audio [Hindi-English] Movies [300MB]"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt9526152",
-    "url": "https://slast430did.com/play/tt9526152"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "1080P",
@@ -45,5 +42,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

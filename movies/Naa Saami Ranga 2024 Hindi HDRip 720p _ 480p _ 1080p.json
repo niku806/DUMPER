@@ -26,10 +26,7 @@
     "1080p Bollywood Movies [DVDRip] [BRRip]"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt23790602",
-    "url": "https://slast430did.com/play/tt23790602"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "720p",
@@ -49,5 +46,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

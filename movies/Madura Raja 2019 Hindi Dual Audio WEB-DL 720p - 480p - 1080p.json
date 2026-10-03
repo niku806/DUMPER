@@ -32,10 +32,7 @@
     "Bollywood MOVIES"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt8326824",
-    "url": "https://slast430did.com/play/tt8326824"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "480p",
@@ -55,5 +52,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }

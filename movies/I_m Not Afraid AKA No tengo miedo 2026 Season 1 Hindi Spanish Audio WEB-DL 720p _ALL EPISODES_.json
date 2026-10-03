@@ -36,10 +36,7 @@
     "Web Series Hindi"
   ],
   "cast": [],
-  "watch_online": {
-    "src": "tt36742917",
-    "url": "https://slast430did.com/play/tt36742917"
-  },
+  "watch_online": null,
   "download_links": [
     {
       "quality": "480p",
@@ -59,5 +56,6 @@
   ],
   "episodes": [],
   "episodes_data": [],
-  "total_episodes": 0
+  "total_episodes": 0,
+  "status": "download"
 }
