@@ -1,2 +1,0 @@
-# ANIME_DATA
-Any
