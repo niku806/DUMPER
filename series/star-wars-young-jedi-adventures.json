@@ -1,0 +1,289 @@
+{
+  "url": "https://animedekho.app/series-hindi/star-wars-young-jedi-adventures/",
+  "title": "Star Wars: Young Jedi Adventures",
+  "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+  "description": "Set during the High Republic era and the prime of the Jedi Order, follow Jedi younglings as they study the ways of the Force, explore the galaxy, help citizens and creatures in need, and learn valuable skills needed to become Jedi along the way.",
+  "year": "2023",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Cartoon",
+    "Hindi Dub",
+    "Sci-Fi"
+  ],
+  "cast": [
+    "Dee Bradley Baker",
+    "Emma Berman",
+    "Jamaal Avery Jr.",
+    "Jonathan Lipow",
+    "Juliet Donenfeld",
+    "Miyu Tomita",
+    "Yusuke Kobayashi",
+    "Takuya Sato",
+    "Chelsea Peretti",
+    "JeCobi Swain",
+    "Laz Alonso",
+    "Matt Hill",
+    "Brian Stepanek",
+    "Charlie Schlatter",
+    "Chris Edgerly",
+    "Akira Ishida",
+    "Daiki Hamano",
+    "Fairouz Ai",
+    "Kakeru Hatano",
+    "Marika Kouno",
+    "Chris Coppola",
+    "Hoon Lee",
+    "Johnny Yong Bosch"
+  ],
+  "episodes": [
+    {
+      "title": "S1-E1The Young Jedi",
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x1/",
+      "image": "https://image.tmdb.org/t/p/w185/6JdqVxgkHfhHeKFBbExcDT9ugb6.jpg"
+    },
+    {
+      "title": "S1-E2Yoda’s Mission",
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x2/",
+      "image": "https://image.tmdb.org/t/p/w185/yvkoHkL6ak6Wji4HCjDXqKYru9v.jpg"
+    },
+    {
+      "title": "S1-E3Nash's Race Day",
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x3/",
+      "image": "https://image.tmdb.org/t/p/w185/iO5SiBhhFielHj7cEev0fRb6rJP.jpg"
+    },
+    {
+      "title": "S1-E4The Lost Jedi Ship",
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x4/",
+      "image": "https://image.tmdb.org/t/p/w185/Amn3WfgsBhGjlU38TfGng48cIs6.jpg"
+    },
+    {
+      "title": "S1-E5Get Well Nubs",
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x5/",
+      "image": "https://image.tmdb.org/t/p/w185/zceGjuJ2VLXh4Hc0hcUxEgz5SAc.jpg"
+    },
+    {
+      "title": "S1-E6The Junk Giant",
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x6/",
+      "image": "https://image.tmdb.org/t/p/w185/5ooH0rD7pQkI2AyxywS6vhH3r44.jpg"
+    },
+    {
+      "title": "S1-E7Lys and The Snowy Mountain Rescue",
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x7/",
+      "image": "https://image.tmdb.org/t/p/w185/vt4lvVmm1BVObE3Wcm8JGrhhNPx.jpg"
+    }
+  ],
+  "episodes_data": [
+    {
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x1/",
+      "title": "Star Wars: Young Jedi Adventures 1x1",
+      "season": 1,
+      "episode": 1,
+      "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+      "description": "Jedi younglings Kai, Lys and Nubs go on their first adventure.",
+      "year": "2023",
+      "duration": "26m",
+      "rating": "5.444",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Cartoon",
+        "Hindi Dub",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Dee Bradley Baker",
+        "Emma Berman",
+        "Jamaal Avery Jr.",
+        "Jonathan Lipow",
+        "Juliet Donenfeld"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x2/",
+      "prev_episode": null
+    },
+    {
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x2/",
+      "title": "Star Wars: Young Jedi Adventures 1x2",
+      "season": 1,
+      "episode": 2,
+      "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+      "description": "Yoda gives the younglings a mission.",
+      "year": "2023",
+      "duration": "26m",
+      "rating": "5.444",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Cartoon",
+        "Hindi Dub",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Dee Bradley Baker",
+        "Emma Berman",
+        "Jamaal Avery Jr.",
+        "Jonathan Lipow",
+        "Juliet Donenfeld"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x3/",
+      "prev_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x1/"
+    },
+    {
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x3/",
+      "title": "Star Wars: Young Jedi Adventures 1x3",
+      "season": 1,
+      "episode": 3,
+      "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+      "description": "Nash’s Jedi friends help her compete in a race.",
+      "year": "2023",
+      "duration": "26m",
+      "rating": "5.444",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Cartoon",
+        "Hindi Dub",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Dee Bradley Baker",
+        "Emma Berman",
+        "Jamaal Avery Jr.",
+        "Jonathan Lipow",
+        "Juliet Donenfeld"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x4/",
+      "prev_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x2/"
+    },
+    {
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x4/",
+      "title": "Star Wars: Young Jedi Adventures 1x4",
+      "season": 1,
+      "episode": 4,
+      "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+      "description": "The young Jedi find a long-lost Jedi ship.",
+      "year": "2023",
+      "duration": "26m",
+      "rating": "5.444",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Cartoon",
+        "Hindi Dub",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Dee Bradley Baker",
+        "Emma Berman",
+        "Jamaal Avery Jr.",
+        "Jonathan Lipow",
+        "Juliet Donenfeld"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x5/",
+      "prev_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x3/"
+    },
+    {
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x5/",
+      "title": "Star Wars: Young Jedi Adventures 1x5",
+      "season": 1,
+      "episode": 5,
+      "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+      "description": "Kai and Lys seek out a cure for Nubs’ illness",
+      "year": "2023",
+      "duration": "26m",
+      "rating": "5.444",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Cartoon",
+        "Hindi Dub",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Dee Bradley Baker",
+        "Emma Berman",
+        "Jamaal Avery Jr.",
+        "Jonathan Lipow",
+        "Juliet Donenfeld"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x6/",
+      "prev_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x4/"
+    },
+    {
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x6/",
+      "title": "Star Wars: Young Jedi Adventures 1x6",
+      "season": 1,
+      "episode": 6,
+      "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+      "description": "The young Jedi set out to catch a thief.",
+      "year": "2023",
+      "duration": "26m",
+      "rating": "5.444",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Cartoon",
+        "Hindi Dub",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Dee Bradley Baker",
+        "Emma Berman",
+        "Jamaal Avery Jr.",
+        "Jonathan Lipow",
+        "Juliet Donenfeld"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x7/",
+      "prev_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x5/"
+    },
+    {
+      "url": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x7/",
+      "title": "Star Wars: Young Jedi Adventures 1x7",
+      "season": 1,
+      "episode": 7,
+      "image": "https://image.tmdb.org/t/p/w500/oqTS9LOmp8ibRY1nsjBjP660mCb.jpg",
+      "description": "The younglings help wrangle creatures.",
+      "year": "2023",
+      "duration": "26m",
+      "rating": "5.444",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Cartoon",
+        "Hindi Dub",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Dee Bradley Baker",
+        "Emma Berman",
+        "Jamaal Avery Jr.",
+        "Jonathan Lipow",
+        "Juliet Donenfeld"
+      ],
+      "streaming_servers": [],
+      "download_links": [],
+      "iframes": [],
+      "next_episode": null,
+      "prev_episode": "https://animedekho.app/epi/star-wars-young-jedi-adventures-1x6/"
+    }
+  ],
+  "total_episodes": 7
+}
